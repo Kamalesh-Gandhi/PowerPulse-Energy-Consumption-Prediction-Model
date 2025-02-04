@@ -5,3 +5,4 @@ This project aims to tackle the critical issue of energy management by developin
 
 ## Objective
 The main goal of this project is to provide a predictive model that offers actionable insights into energy usage trends. This will not only help households manage their energy consumption more efficiently but also assist energy providers in planning and forecasting demand.
+  
