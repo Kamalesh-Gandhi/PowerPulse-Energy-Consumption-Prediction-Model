@@ -12,7 +12,7 @@ By combining statistical analysis with machine learning models, PowerPulse aims 
 ## Features
 - **Datetime** feature created by merging Date and Time for better time-series analysis.
 - Hourly, daily, and seasonal consumption patterns.
-- Engineered features: `Season`, `IsPeakHour`, `Short_Term_Avg_Power`, `Daily_Consumption`, `Unmetered_Energy`, `Power_Deviation`, and `Power_Anomaly_Flag`.
+- Engineered features: `Season`, `IsPeakHour`, `Short_Term_Avg_Power`, `Daily_Consumption`, `Residual_Power`, `Energy_Deviation`, and `Anamoly`.
 
 ## Technical Stack & Tools
 - **Languages:** Python  
@@ -60,4 +60,4 @@ By combining statistical analysis with machine learning models, PowerPulse aims 
 To run this project, install the necessary dependencies using the following command:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow keras scipy ucimlrepo
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost scipy ucimlrepo
