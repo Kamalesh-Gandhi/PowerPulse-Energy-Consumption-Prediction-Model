@@ -9,11 +9,6 @@ By combining statistical analysis with machine learning models, PowerPulse aims 
 **Dataset:** Time-series data of electric power consumption in a single household collected at one-minute intervals over four years. It includes detailed measurements of electrical quantities and sub-metering values.  
 **Data Type:** Multivariate, Time-Series Data  
 
-## Features
-- **Datetime** feature created by merging Date and Time for better time-series analysis.
-- Hourly, daily, and seasonal consumption patterns.
-- Engineered features: `Season`, `IsPeakHour`, `Short_Term_Avg_Power`, `Daily_Consumption`, `Residual_Power`, `Energy_Deviation`, and `Anamoly`.
-
 ## Technical Stack & Tools
 - **Languages:** Python  
 - **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, XGBoost, SciPy, TensorFlow/Keras  
