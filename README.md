@@ -38,7 +38,9 @@ By combining statistical analysis with machine learning models, PowerPulse aims 
    - Trained multiple machine learning models on 30% of the dataset (~600,000 samples).  
    - Applied regression models including Linear Regression, Random Forest, Gradient Boosting, Neural Network (MLP), and XGBoost.  
 6. **Evaluation**
-   - Evaluated models using error metrics: MAE, RMSE, and R² Score.  
+   - Evaluated models using error metrics: MAE, RMSE, and R² Score.
+   ![image](https://github.com/user-attachments/assets/3cba82f8-c21e-426c-ba3f-66d5e1b09436)
+     
    - Compared model performances and selected the best model for deployment.
 
 ## Technologies Used
