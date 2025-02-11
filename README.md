@@ -7,7 +7,7 @@ By combining statistical analysis with machine learning models, PowerPulse aims 
 
 ## Dataset Information
 **Dataset:** Time-series data of electric power consumption in a single household collected at one-minute intervals over four years. It includes detailed measurements of electrical quantities and sub-metering values.  
-**Data Type:** Multivariate, Time-Series Data  
+**Data Type:** Multivariate, Time-Series Data   
 
 ## Dataset Source Link
 https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
