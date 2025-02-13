@@ -1,7 +1,7 @@
 # PowerPulse: Household Energy Usage Forecast
 
 ## Project Overview
-PowerPulse is a predictive analytics project focused on forecasting household energy consumption using historical data. The primary objective is to assist households in optimizing energy consumption patterns and enable energy providers to improve load forecasting and anomaly detection. The project applies advanced machine learning techniques, including data preprocessing, feature engineering, and multiple regression models, to build an accurate energy prediction system.
+PowerPulse is a predictive analytics project focused on forecasting household energy consumption using historical data. The primary objective is to assist households in optimizing energy consumption patterns and enable energy providers to improve load forecasting and anomaly detection. The project applies advanced machine learning techniques, including data preprocessing, feature engineering, and multiple regression models, to build an accurate energy prediction system.   
 
 By combining statistical analysis with machine learning models, PowerPulse aims to generate actionable insights for smarter energy management and sustainable resource utilization.
 
